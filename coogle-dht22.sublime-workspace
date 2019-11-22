@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upgrade",
+				"upgrade_details"
+			],
+			[
+				"upgr",
+				"upgrade_details"
+			],
+			[
+				"stm_fw",
+				"stm_fw_md5"
+			],
+			[
+				"levo_upgra",
+				"levo_upgrade_details"
+			],
+			[
+				"levo_up",
+				"levo_upgrade_details"
+			],
+			[
+				"levo_upgrad",
+				"levo_upgrade_details_t"
+			],
+			[
+				"appOta",
+				"appOtaHttpClient"
+			],
+			[
+				"app_ota",
+				"app_ota_stm_fw_fr"
+			],
+			[
+				"d",
+				"delete"
+			],
+			[
+				"download",
+				"downloading_stm_fw"
+			],
+			[
+				"setupWiFi",
+				"setupWiFiClientSecure"
+			],
+			[
+				"setupWi",
+				"setupWiFiClientSecure"
+			],
+			[
+				"ota",
+				"otaManager"
+			],
+			[
+				"setupS",
+				"setupWiFiClientSecure"
+			],
+			[
+				"strnp",
+				"strncpy"
+			],
+			[
+				"STM32_",
+				"STM32_DISPLAY_NAME_MAX_LEN"
+			],
+			[
+				"current",
+				"current_total_time"
+			],
+			[
+				"total",
+				"total_cycle_time"
+			],
+			[
+				"aws",
+				"aws_update_rejected"
+			],
+			[
+				"STM32_LEVO",
+				"STM32_MAX_LEVO_BUILD_DATE_LEN"
+			],
+			[
+				"aws_up",
+				"aws_update_accepted"
+			],
+			[
+				"set",
+				"set_command"
+			],
+			[
+				"levo",
+				"levo_mqtt_topics"
+			],
+			[
+				"_",
+				"_ciot_log"
+			],
+			[
+				"wifi",
+				"wifi_connected"
+			],
+			[
+				"WiFi",
+				"WiFiManager"
+			],
+			[
+				"de",
+				"desired"
+			],
+			[
+				"get",
+				"getHeapFragmentation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 973,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "makeEspArduino.mk",
+			"settings":
+			{
+				"buffer_size": 26184,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					""
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Flash"
+				]
+			],
+			[
+				"Packages/User/esp8266.sublime-build",
+				"Flash"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					""
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Flash"
+				]
+			],
+			[
+				"Packages/User/esp8266.sublime-build",
+				"Flash"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/esp8266.sublime-build",
+					""
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Flash"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Stack Dump"
+				]
+			],
+			[
+				"Packages/User/esp8266.sublime-build",
+				"Flash"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/esp8266.sublime-build",
+					""
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Flash"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Stack Dump"
+				],
+				[
+					"Packages/User/esp8266.sublime-build",
+					"Erase Flash"
+				]
+			],
+			[
+				"Packages/User/esp8266.sublime-build",
+				"Flash"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/john/Documents/Projects/House/coogle-dht22"
+	],
+	"file_history":
+	[
+		"/usr/local/esp8266/libraries/esp8266/examples/CheckFlashConfig/CheckFlashConfig.ino",
+		"/home/john/Levo/levo-fw/Makefile",
+		"/home/john/Levo/levo-fw/app.ino",
+		"/home/john/Levo/levo-fw/STM32Commands.cpp",
+		"/home/john/Levo/levo-fw/STM32Interface.h",
+		"/home/john/Levo/levo-fw/STM32Interface.cpp",
+		"/home/john/Levo/levo-fw/dump.txt",
+		"/home/john/Levo/levo-fw/STM32Commands.h",
+		"/home/john/Levo/levo-fw/app-ssl.cpp",
+		"/home/john/Levo/levo-fw/data/config.json",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_OTA.cpp",
+		"/home/john/Levo/levo-fw/app-mqtt.cpp",
+		"/home/john/Levo/levo-fw/app-ota.cpp",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_OTA.h",
+		"/home/john/2-.powered-on.txt",
+		"/home/john/1-plugged-in.txt",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/include/wl_definitions.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Config.cpp",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/ESP8266WiFiScan.cpp",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Config.h",
+		"/home/john/Levo/levo-fw/app.h",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/ESP8266WiFiSTA.h",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/ESP8266WiFiScan.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_MQTT.cpp",
+		"/home/john/Levo/levo-fw/app-ota.h",
+		"/home/john/.config/sublime-text-3/Packages/User/esp8266.sublime-build",
+		"/usr/local/esp8266/libraries/ESP8266HTTPClient/src/ESP8266HTTPClient.h",
+		"/home/john/Levo/levo-fw/simplehttp/ota-manifest.json",
+		"/usr/local/esp8266/libraries/ESP8266HTTPClient/src/ESP8266HTTPClient.cpp",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/WiFiClientSecureBearSSL.cpp",
+		"/usr/local/esp8266/cores/esp8266/FS.h",
+		"/usr/local/esp8266/cores/esp8266/Stream.h",
+		"/usr/local/esp8266/cores/esp8266/Print.h",
+		"/home/john/Levo/levo-fw/app-config.h",
+		"/home/john/Levo/levo-fw/logger.h",
+		"/home/john/Levo/levo-fw/app-config.cpp",
+		"/home/john/Levo/levo-fw/app-mqtt.h",
+		"/home/john/Levo/levo-fw/app-ntp.h",
+		"/home/john/Levo/levo-fw/app-ntp.cpp",
+		"/home/john/Levo/levo-fw/app-ssl.h",
+		"/home/john/Levo/levo-fw/app-stm32.h",
+		"/home/john/Levo/levo-fw/app-stm32.cpp",
+		"/home/john/Levo/levo-fw/app-wifi.h",
+		"/home/john/Levo/levo-fw/app-wifi.cpp",
+		"/home/john/Levo/levo-fw/levo_utils.h",
+		"/home/john/Levo/levo-fw/makeEspArduino.mk",
+		"/home/john/Levo/levo-fw/build/generic/buildinfo.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/SPIFFSCertStoreFile.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Logger.cpp",
+		"/home/john/ttyUSB0__07-11-19_17-19-00.txt",
+		"/home/john/Levo/levo-fw/ota-manifest-example.json",
+		"/home/john/Levo/levo-fw/ssl/dev-server.pem",
+		"/usr/local/esp8266/libraries/ESP8266WiFi/src/WiFiClientSecureBearSSL.h",
+		"/home/john/Levo/levo-fw/data/stmfw.bin",
+		"/home/john/Levo/levo-fw/levo-mqtt-subscriptions.cpp",
+		"/home/john/Levo/levo-fw/levo-mqtt-subscriptions.h",
+		"/home/john/Levo/levo-fw/data/config.example.json",
+		"/home/john/Levo/mos-levo/fs/init.js",
+		"/usr/local/esp8266/cores/esp8266/WString.cpp",
+		"/home/john/Levo/levo-fw/levo_utils.cpp",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_MQTT.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_NTP.cpp",
+		"/home/john/Levo/levo-fw/xymodem.cpp",
+		"/home/john/Levo/levo-fw/app.ld",
+		"/home/john/Levo/levo-fw/Crc16.cpp",
+		"/home/john/Levo/levo-fw/Crc16.h",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Wifi.cpp",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Wifi.h",
+		"/usr/local/esp8266/cores/esp8266/StreamString.cpp",
+		"/home/john/Levo/levo-fw/CoogleIOT/CoogleIOT_Logger.h",
+		"/home/john/Levo/LEVO Code V4.0.6/Src/wifi.c",
+		"/home/john/Levo/levo-fw/MQTTInterface.h",
+		"/home/john/Levo/levo-fw/MQTTInterface.cpp",
+		"/home/john/Arduino/libraries/PubSubClient/src/PubSubClient.cpp",
+		"/usr/local/esp8266/cores/esp8266/Esp-frag.cpp",
+		"/usr/local/esp8266/cores/esp8266/Esp.cpp",
+		"/home/john/Levo/levo-fw/stack-dump.sh"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "makeEspArduino.mk",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 26184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/esp8266.sublime-build",
+	"project": "coogle-dht22.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
